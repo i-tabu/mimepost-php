@@ -1,0 +1,18 @@
+# # Data19TotalSummary
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**request** | [**\MimePost\Model\TotalSummaryRequest**](TotalSummaryRequest.md) |  |
+**delivered** | [**\MimePost\Model\TotalSummaryDelivered**](TotalSummaryDelivered.md) |  |
+**open** | [**\MimePost\Model\TotalSummaryOpen**](TotalSummaryOpen.md) |  |
+**click** | [**\MimePost\Model\TotalSummaryClick**](TotalSummaryClick.md) |  |
+**unsubscribe** | [**\MimePost\Model\TotalSummaryUnsubscribe**](TotalSummaryUnsubscribe.md) |  |
+**bounce_soft** | [**\MimePost\Model\TotalSummaryBounceSoft**](TotalSummaryBounceSoft.md) |  |
+**bounce_hard** | [**\MimePost\Model\TotalSummaryBounceHard**](TotalSummaryBounceHard.md) |  |
+**block_hard** | [**\MimePost\Model\TotalSummaryBlockHard**](TotalSummaryBlockHard.md) |  |
+**block_soft** | [**\MimePost\Model\TotalSummaryBlockSoft**](TotalSummaryBlockSoft.md) |  |
+**spam** | [**\MimePost\Model\TotalSummarySpam**](TotalSummarySpam.md) |  |
+
+[[Back to Model list]](../../README.md#models) [[Back to API list]](../../README.md#endpoints) [[Back to README]](../../README.md)

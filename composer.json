@@ -1,0 +1,15 @@
+{
+    "name": "mimepost/mimepost-php",
+    "description": "Simple PHP SDK for MimePost API",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "MimePost\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4",
+        "ext-json": "*"
+    }
+}
